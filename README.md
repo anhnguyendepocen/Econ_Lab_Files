@@ -38,5 +38,7 @@ In the otree_environments, you'll find 2 virtual environments to work in the two
 ## Contact
 This is an ongoing project, so if you want to support by adding an extra section/folder/file or just want to make a suggestion, please send me an email: ma.gutierrezch@up.edu.pe
 
+**Forthcoming:** Guides to program basic shell scripts and to use the terminal in Ubuntu
+
 **Disclaimer:** There are some scripts written here that aren't from my authorship. The programmer names should be in there. 
 If you haven't find it, please let me now in order to add him.
