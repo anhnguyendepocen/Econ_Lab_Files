@@ -33,7 +33,7 @@ oTree is the main programming package used for the experimental economics labs i
 In the otree_environments, you'll find 2 virtual environments to work in the two main versions of otree
 
 1. Old oTree - otree 2.2.x (Python 3.6)
-1. New oTree - otree (Python 3.7) 
+1. New oTree - otree >= 2.3.1 (Python 3.7) 
 
 ## Contact
 This is an ongoing project, so if you want to support by adding an extra section/folder/file or just want to make a suggestion, please send me an email: ma.gutierrezch@up.edu.pe
