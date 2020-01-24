@@ -38,5 +38,5 @@ In the otree_environments, you'll find 2 virtual environments to work in the two
 ## Contact
 This is an ongoing project, so if you want to support by adding an extra section/folder/file or just want to make a suggestion, please send me an email: ma.gutierrezch@up.edu.pe
 
-**Disclaimer:** There are some scripts written here that aren't from my authorship. The programmers name should be in there. 
+**Disclaimer:** There are some scripts written here that aren't from my authorship. The programmer names should be in there. 
 If you haven't find it, please let me now in order to add him.
