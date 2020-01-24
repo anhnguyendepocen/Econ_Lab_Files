@@ -1,4 +1,4 @@
-#!c:\users\mad037~1.gut\docume~1\labup~1\otree_~1\old_ot~1\scripts\python.exe
+#!c:\users\mad037~1.gut\docume~1\labup~1\econ_l~1\otree_~1\old_ot~1\scripts\python.exe
 
 import os
 import sys
