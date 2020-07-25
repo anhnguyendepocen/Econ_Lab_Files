@@ -1,4 +1,4 @@
-# Basic Files for a Laboratory of Experimental Economics
+# Basic Files for a Laboratory of Experimental Economics (ongoing project)
 **Author:** Marco Gutierrez
 
 The main purpose of this repo is to make public some of the basic software tools in order to set up a lab in experimental economics.
